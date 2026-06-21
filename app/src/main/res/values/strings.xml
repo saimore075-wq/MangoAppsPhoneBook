@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">MangoApps PhoneBook</string>
+    <string name="nav_contacts">Contacts</string>
+    <string name="nav_call_logs">Call Logs</string>
+    <string name="nav_sms">SMS</string>
+    <string name="tab_local">Local</string>
+    <string name="tab_remote">Remote</string>
+    <string name="tab_incoming">Incoming</string>
+    <string name="tab_outgoing">Outgoing</string>
+    <string name="tab_missed">Missed</string>
+    <string name="permission_contacts_rationale">This app needs access to your contacts to display your phonebook.</string>
+    <string name="permission_call_log_rationale">This app needs access to call logs to show your call history.</string>
+    <string name="permission_sms_rationale">This app needs access to your SMS messages to display them.</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="permission_denied_permanently">Permission permanently denied. Please enable it in Settings.</string>
+    <string name="retry">Retry</string>
+    <string name="close">Close</string>
+    <string name="action">Action</string>
+    <string name="call">Call</string>
+    <string name="sms">SMS</string>
+    <string name="no_contacts">No Contacts Found</string>
+    <string name="no_contacts_subtitle">Your phonebook is empty.</string>
+    <string name="no_call_logs">No Call Logs</string>
+    <string name="no_call_logs_subtitle">No call history available.</string>
+    <string name="no_sms">No Messages</string>
+    <string name="no_sms_subtitle">Your inbox is empty.</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="message_label">Message:</string>
+    <string name="time_label">Time:</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="error_loading">Failed to load data. Please retry.</string>
+    <string name="loading_remote_contacts">Loading remote contacts…</string>
+    <string name="select_number_to_call">Select number to call</string>
+    <string name="select_number_to_sms">Select number to message</string>
+</resources>
