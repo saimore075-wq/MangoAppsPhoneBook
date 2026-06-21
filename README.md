@@ -162,6 +162,15 @@ Page size: 30. Each page is cached to Room on successful fetch. On network failu
 
 ---
 
+## Unit Test cases Pass ScreenShot
+<img width="2559" height="1143" alt="Unite test cases ScreenShot" src="https://github.com/user-attachments/assets/2f8ef815-e4ef-4275-a8a4-643721b06738" />
+
+## UI Test cases Pass ScreenShot
+<img width="2555" height="589" alt="UI Test cases" src="https://github.com/user-attachments/assets/cd05d2a1-54c4-4ac9-8e9b-6316a1a8ae53" />
+
+
+
 ## Known Behavior
 
 **SMS deletion via Google Messages bin** — When a message is moved to Google Messages' "Recently Deleted" bin, it is NOT immediately removed from the Android system SMS ContentProvider. Our app reads from the system provider, so the message remains visible until the bin is permanently emptied. This is expected behavior for any third-party SMS reader — Google Messages' bin state is stored in Google's private database and is not accessible via public Android APIs.
+
