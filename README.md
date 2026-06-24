@@ -171,6 +171,8 @@ Page size: 30. Each page is cached to Room on successful fetch. On network failu
 ## Android Studio Version 
 As per the requirements the Version of Android Studio is :
 Android Studio Quail 1 | 2026.1.1 Patch 2
+<img width="2557" height="1334" alt="Android studio updated" src="https://github.com/user-attachments/assets/a2eda77b-4b9d-439b-b521-611e5ed8b6f6" />
+
 
 
 
