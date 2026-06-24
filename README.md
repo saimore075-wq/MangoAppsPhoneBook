@@ -58,18 +58,19 @@ com.mangoapps.phonebook
 
 | Library | Purpose | Version |
 |---|---|---|
-| Kotlin | Language | 1.9.22 |
+| Kotlin | Language | 2.1.10 |
 | Jetpack Compose | Declarative UI | BOM 2024.02.00 |
 | Material 3 | Design system | via BOM |
-| Hilt | Dependency injection | 2.50 |
+| Hilt | Dependency injection | 2.56 |
 | Retrofit + OkHttp | REST client | 2.9.0 / 4.12.0 |
 | Paging 3 | Remote contact infinite scroll | 3.2.1 |
-| Room | Local DB — remote contact cache | 2.6.1 |
+| Room | Local DB — remote contact cache | 2.7.0 |
 | DataStore | Last-visited screen preference | 1.0.0 |
 | Coil | Image loading | 2.5.0 |
 | Navigation Compose | Screen navigation | 2.7.6 |
 | Accompanist | Permissions + SwipeRefresh | 0.32.0 |
-| Coroutines + Flow | Async / reactive streams | 1.7.3 |
+| Coroutines + Flow | Async / reactive streams | 1.9.0 |
+| KSP | Kotlin Symbol Processing (Room) | 2.1.10-1.0.31 |
 | MockK | Unit test mocking | 1.13.8 |
 | Turbine | Flow / StateFlow testing | 1.0.0 |
 | Compose UI Test | Instrumented UI tests | via BOM |
@@ -78,10 +79,10 @@ com.mangoapps.phonebook
 
 ## Requirements
 
-- **Android Studio** Hedgehog (2023.1.1) or newer
+- **Android Studio** Quail (2026.1.1) or newer
 - **JDK 17** (compile target) / JDK 24 (APK build)
 - **Min SDK** 21 (Android 5.0)
-- **Target SDK** 34 (Android 14)
+- **Target SDK** 35 (Android 15)
 - Physical device or emulator with API 21+
 
 ---
