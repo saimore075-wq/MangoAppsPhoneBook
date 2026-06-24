@@ -168,6 +168,10 @@ Page size: 30. Each page is cached to Room on successful fetch. On network failu
 ## UI Test cases Pass ScreenShot
 <img width="2555" height="589" alt="UI Test cases" src="https://github.com/user-attachments/assets/cd05d2a1-54c4-4ac9-8e9b-6316a1a8ae53" />
 
+## Android Studio Version 
+As per the requirements the Version of Android Studio is :
+Android Studio Quail 1 | 2026.1.1 Patch 2
+
 
 
 ## Known Behavior
